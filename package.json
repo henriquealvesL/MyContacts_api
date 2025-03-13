@@ -6,7 +6,8 @@
   "author": "Henrique Alves",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "build": "node src/index.js"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
